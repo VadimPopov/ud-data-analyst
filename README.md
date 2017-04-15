@@ -6,3 +6,4 @@ This repository contains some of the projects I've completed as part of the Udac
 2. [Titanic Dataset Analysis](project_files/titanic-analysis.ipynb) (Python)
 3. [OpenStreetMap Data Wrangling](project_files/osm-data-wrangling.ipynb) (Python + SQLite)
 4. [White Wine Quality Analysis](project_files/white-wine-analysis.Rmd) (R)
+5. [A/B Testing](project_files/ab-testing.ipynb) (Python)
